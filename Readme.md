@@ -1,6 +1,6 @@
 A Swift Playground to demonstrate how to use the class MPSImageHistogram to compute the histogram of an image.
 
-The information are documented in the weblink below.
+The information are documented in the weblinks below.
 
 
 System Requirements:
