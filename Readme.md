@@ -1,6 +1,7 @@
-a) A Swift Playground to demonstrate how to use the class MPSImageHistogram to compute the histogram of an image.
+a) A Swift Playground to demonstrate how to convert the color space of an image.
 
-b) A Swift Playground to convert the color space of an image.
+
+b) A Swift Playground to demonstrate how to use the class MPSImageHistogram to compute the histogram of an image.
 
 
 
