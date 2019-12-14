@@ -1,4 +1,8 @@
-A Swift Playground to demonstrate how to use the class MPSImageHistogram to compute the histogram of an image.
+a) A Swift Playground to demonstrate how to use the class MPSImageHistogram to compute the histogram of an image.
+
+b) A Swift Playground to convert the color space of an image.
+
+
 
 The information are documented at the websites listed below.
 
@@ -24,3 +28,6 @@ http://metalbyexample.com/metal-performance-shaders-in-swift/
 
 
 https://developer.apple.com/documentation/metalperformanceshaders/mpsimagehistogram
+
+
+https://developer.apple.com/documentation/metalperformanceshaders/mpsimageconversion
